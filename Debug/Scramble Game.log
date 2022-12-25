@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Ehab\DSA\Scramble Game\Utils.h(91,22): warning C4018: '<': signed/unsigned mismatch
+C:\Ehab\DSA\Scramble Game\StringHelperMethods.h(46,21): warning C4018: '<=': signed/unsigned mismatch
+  Scramble Game.vcxproj -> C:\Ehab\DSA\Scramble Game\Debug\Scramble Game.exe
